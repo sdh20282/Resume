@@ -1,2 +1,3 @@
 # Resume
-tailwind로 제작한 이력서
+tailwind 이력서  
+https://sdh20282.github.io/Resume/
